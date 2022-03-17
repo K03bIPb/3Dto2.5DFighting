@@ -6,5 +6,7 @@ Transition between 3D and 2.5D dimensions (from typical third person to 2.5D fig
 
 # Screenshots
 
+![Alt text](https://ibb.co/Vx9dVmD "Fight")
+
 # How to launch
 Clone, launch Fightning.uproject with UE4 4.27.2 then press Play inside the editor (Play in editor mode). 
